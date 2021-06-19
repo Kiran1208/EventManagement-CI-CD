@@ -12939,11 +12939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sravan\\source\\repos\\EventManagementApi\\EventManagementApi\\EventManagementApi.csproj",
+      "projectUniqueName": "C:\\Kiran\\Git-CI-CD\\EventManagement-CI-CD\\EventManagementApi\\EventManagementApi.csproj",
       "projectName": "EventManagementApi",
-      "projectPath": "C:\\Users\\sravan\\source\\repos\\EventManagementApi\\EventManagementApi\\EventManagementApi.csproj",
+      "projectPath": "C:\\Kiran\\Git-CI-CD\\EventManagement-CI-CD\\EventManagementApi\\EventManagementApi.csproj",
       "packagesPath": "C:\\Users\\sravan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sravan\\source\\repos\\EventManagementApi\\EventManagementApi\\obj\\",
+      "outputPath": "C:\\Kiran\\Git-CI-CD\\EventManagement-CI-CD\\EventManagementApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
