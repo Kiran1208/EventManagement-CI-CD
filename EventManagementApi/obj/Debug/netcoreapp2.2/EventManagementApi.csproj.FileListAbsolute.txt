@@ -1,0 +1,14 @@
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\bin\Debug\netcoreapp2.2\EventManagementApi.deps.json
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\bin\Debug\netcoreapp2.2\EventManagementApi.runtimeconfig.json
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\bin\Debug\netcoreapp2.2\EventManagementApi.runtimeconfig.dev.json
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\bin\Debug\netcoreapp2.2\EventManagementApi.dll
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\bin\Debug\netcoreapp2.2\EventManagementApi.pdb
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.csprojAssemblyReference.cache
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.RazorAssemblyInfo.cache
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.RazorAssemblyInfo.cs
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.AssemblyInfoInputs.cache
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.AssemblyInfo.cs
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.RazorTargetAssemblyInfo.cache
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.dll
+C:\Users\sravan\source\repos\EventManagementApi\EventManagementApi\obj\Debug\netcoreapp2.2\EventManagementApi.pdb
