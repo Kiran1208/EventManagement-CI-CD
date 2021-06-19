@@ -14,7 +14,11 @@ jobs:
       - name: setup dot net 
       - uses: actions/setup-dotnet@v1
         with:
+<<<<<<< HEAD
           dotnet-version: '3.0.x'
+=======
+          dotnet-version: '2.0.x'
+>>>>>>> 6b54b4aef87ce7adc7fd2d7e3bb6c01f51204d17
 
       - name: Restore Dependencies
         run: dotnet restore
